@@ -13,4 +13,4 @@ Script Bash giup quan ly Node Exporter tren Linux mot cach nhanh chong.
 Copy va dan lenh duoi day vao Terminal:
 
 ```bash
-curl -sSO [https://raw.githubusercontent.com/USER_NAME/node-exporter-manager/main/manage.sh](https://raw.githubusercontent.com/USER_NAME/node-exporter-manager/main/manage.sh) && chmod +x manage.sh && ./manage.sh
+curl -sSO [https://github.com/fixnhanh-linux/System-Monitoring-Construction-Guide/blob/main/Node-Exporter-Linux/script-monitor-grafana-setup.sh) && chmod +x script-monitor-grafana-setup.sh && ./script-monitor-grafana-setup.sh
